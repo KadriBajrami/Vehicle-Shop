@@ -7,5 +7,5 @@ package org.makerminds.jcoaching.finalexam.model;
  *
  */
 public enum Manufacturer {
-	AUDI, BMW, SKODA, VW, MERCEDES,
+	AUDI, BMW, 
 }
